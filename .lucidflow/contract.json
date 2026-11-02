@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "source_kind": "public_verified_contract_source",
+  "chain_id": 1,
+  "scoped_address": "0x96d33bcf84dde326014248e2896f79bbb9c13d6d",
+  "explorer_url": "https://etherscan.io/address/0x96D33bCF84DdE326014248E2896F79bbb9c13D6d",
+  "provider": "sourcify",
+  "implementation_addresses": [
+    "0x5ee204c28217e30b45784ecd9e9afde029334a5f"
+  ],
+  "source_sha256": "ecef1ce23fdd8e9103599607958e311bf737d6fc86be6852497aea862c1d7db2",
+  "program": {
+    "id": "immunefi:dhedge",
+    "platform": "immunefi",
+    "slug": "dhedge",
+    "name": "dHEDGE",
+    "url": "https://immunefi.com/bug-bounty/dhedge/"
+  },
+  "capture_semantics": "Git commits archive verified source snapshots and are not deployment transactions."
+}
