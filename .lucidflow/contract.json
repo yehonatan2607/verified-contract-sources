@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source_kind": "public_verified_contract_source",
+  "chain_id": 1,
+  "scoped_address": "0xacddac6c77318b615f7f6fb9bb67c6833e9c05f1",
+  "explorer_url": "https://etherscan.io/address/0xAcdDAC6C77318B615f7F6fB9bb67c6833e9c05f1",
+  "provider": "sourcify",
+  "implementation_addresses": [],
+  "source_sha256": "4024df362dc116e5aa274928355aa0af1c6c490b3843b8c98be4664d546b3946",
+  "program": {
+    "id": "immunefi:stargate",
+    "platform": "immunefi",
+    "slug": "stargate",
+    "name": "Stargate",
+    "url": "https://immunefi.com/bug-bounty/stargate/"
+  },
+  "capture_semantics": "Git commits archive verified source snapshots and are not deployment transactions."
+}
