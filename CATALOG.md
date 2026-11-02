@@ -28,7 +28,7 @@ This catalog records the initial bounded import from the official Immunefi publi
 | [Synthetix](https://immunefi.com/bug-bounty/synthetix/) | 3 | 3 | 3 |
 | [Utix](https://immunefi.com/bug-bounty/utix/) | 1 | 1 | 1 |
 | [Xterio](https://immunefi.com/bug-bounty/xterio/) | 1 | 1 | 1 |
-| **Total** | **279** | **369** | **483** |
+| **Total** | **279** | **367** | **488** |
 
 "Recognized explorer contracts" are scope entries whose explorer and chain are supported by the keyless capture pipeline. "Archived" means the complete source bundle passed the configured verification, proxy-resolution, path, file-count, and size boundaries.
 
