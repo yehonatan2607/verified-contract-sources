@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "source_kind": "public_verified_contract_source",
+  "chain_id": 56,
+  "scoped_address": "0x46b46629b674b4c0b48b111deeb0eafd9f84a1c0",
+  "explorer_url": "https://bscscan.com/address/0x46B46629B674b4C0b48B111DEeB0eAfd9F84A1c0",
+  "provider": "sourcify",
+  "implementation_addresses": [
+    "0x073ebc0036ade52544b62cdc441ea6ee1796d12c"
+  ],
+  "source_sha256": "7e1a592e7a3fb6a31e11ebebefaa7fd67bf8fa783e9342ce4997410c18eeb20f",
+  "program": {
+    "id": "immunefi:dexeprotocol",
+    "platform": "immunefi",
+    "slug": "dexeprotocol",
+    "name": "DeXe Protocol",
+    "url": "https://immunefi.com/bug-bounty/dexeprotocol/"
+  },
+  "capture_semantics": "Git commits archive verified source snapshots and are not deployment transactions."
+}
