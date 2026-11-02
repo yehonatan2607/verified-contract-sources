@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "source_kind": "public_verified_contract_source",
+  "chain_id": 30,
+  "scoped_address": "0xb2c65bbf276cc5ccae73c0ab29b609a129080639",
+  "explorer_url": "https://rootstock.blockscout.com/address/0xb2c65bbf276cc5ccae73c0ab29b609a129080639",
+  "provider": "blockscout",
+  "implementation_addresses": [
+    "0x179a7a091c43b272ec6a2270e1695ab91e70212f"
+  ],
+  "source_sha256": "2a61a8390d0e09d09436868f81fbcf3126af46a4f279c90bd4e78ab703bd0130",
+  "program": {
+    "id": "immunefi:rootstocklabs",
+    "platform": "immunefi",
+    "slug": "rootstocklabs",
+    "name": "RootstockLabs",
+    "url": "https://immunefi.com/bug-bounty/rootstocklabs/"
+  },
+  "capture_semantics": "Git commits archive verified source snapshots and are not deployment transactions."
+}
