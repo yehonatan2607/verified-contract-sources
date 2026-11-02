@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source_kind": "public_verified_contract_source",
+  "chain_id": 1,
+  "scoped_address": "0x4082c9647c098a6493fb499eae63b5ce3259c574",
+  "explorer_url": "https://etherscan.io/address/0x4082C9647c098a6493fb499EaE63b5ce3259c574",
+  "provider": "sourcify",
+  "implementation_addresses": [],
+  "source_sha256": "cac45c549e221ad284fd0b977d55f5dead6b9e1839920c4d0aa7c1e2eff8c233",
+  "program": {
+    "id": "immunefi:Aevo",
+    "platform": "immunefi",
+    "slug": "Aevo",
+    "name": "Aevo",
+    "url": "https://immunefi.com/bug-bounty/Aevo/"
+  },
+  "capture_semantics": "Git commits archive verified source snapshots and are not deployment transactions."
+}
