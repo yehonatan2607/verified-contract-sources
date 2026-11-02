@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source_kind": "public_verified_contract_source",
+  "chain_id": 1,
+  "scoped_address": "0x26805021988f1a45dc708b5fb75fc75f21747d8c",
+  "explorer_url": "https://etherscan.io/address/0x26805021988F1a45dC708B5FB75Fc75F21747D8c",
+  "provider": "sourcify",
+  "implementation_addresses": [],
+  "source_sha256": "d5d51878ee5f7a6a415e3cbf4f14a2a736c7e9830ce3a1e99e34edd80b04006a",
+  "program": {
+    "id": "immunefi:gamma",
+    "platform": "immunefi",
+    "slug": "gamma",
+    "name": "Gamma",
+    "url": "https://immunefi.com/bug-bounty/gamma/"
+  },
+  "capture_semantics": "Git commits archive verified source snapshots and are not deployment transactions."
+}
