@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source_kind": "public_verified_contract_source",
+  "chain_id": 1,
+  "scoped_address": "0xe2e91c1ae2873720c3b975a8034e887a35323345",
+  "explorer_url": "https://etherscan.io/address/0xE2E91C1Ae2873720C3b975a8034e887A35323345",
+  "provider": "sourcify",
+  "implementation_addresses": [],
+  "source_sha256": "2459825f599d152febd8ddb048d9c865d43fde78f82dee441d6bd28a983b3042",
+  "program": {
+    "id": "immunefi:immutable",
+    "platform": "immunefi",
+    "slug": "immutable",
+    "name": "Immutable",
+    "url": "https://immunefi.com/bug-bounty/immutable/"
+  },
+  "capture_semantics": "Git commits archive verified source snapshots and are not deployment transactions."
+}
