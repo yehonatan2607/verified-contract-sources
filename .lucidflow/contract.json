@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source_kind": "public_verified_contract_source",
+  "chain_id": 56,
+  "scoped_address": "0x103071da56e7cd95b415320760d6a0ddc4da1ca5",
+  "explorer_url": "https://bscscan.com/address/0x103071Da56e7cD95b415320760D6a0dDC4DA1ca5",
+  "provider": "sourcify",
+  "implementation_addresses": [],
+  "source_sha256": "79b8aeba71675bcf4d86140be2050d9656a57481229a83cc66c8bf5bb8bf5fcc",
+  "program": {
+    "id": "immunefi:xterio",
+    "platform": "immunefi",
+    "slug": "xterio",
+    "name": "Xterio",
+    "url": "https://immunefi.com/bug-bounty/xterio/"
+  },
+  "capture_semantics": "Git commits archive verified source snapshots and are not deployment transactions."
+}
