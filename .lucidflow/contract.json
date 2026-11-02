@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source_kind": "public_verified_contract_source",
+  "chain_id": 1,
+  "scoped_address": "0xa03492a9a663f04c51684a3c172fc9c4d7e02edc",
+  "explorer_url": "https://etherscan.io/address/0xa03492a9a663f04c51684a3c172fc9c4d7e02edc",
+  "provider": "sourcify",
+  "implementation_addresses": [],
+  "source_sha256": "43f9b5074c9bff5060a8ecad796d5a3b6a52ec9b6fc9ed431b7d926c6fb417df",
+  "program": {
+    "id": "immunefi:antefinance",
+    "platform": "immunefi",
+    "slug": "antefinance",
+    "name": "Ante Finance",
+    "url": "https://immunefi.com/bug-bounty/antefinance/"
+  },
+  "capture_semantics": "Git commits archive verified source snapshots and are not deployment transactions."
+}
