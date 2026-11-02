@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "source_kind": "public_verified_contract_source",
+  "chain_id": 1,
+  "scoped_address": "0x45f91031b33da2585932c8f1cdff0faa6cd329ae",
+  "explorer_url": "https://etherscan.io/address/0x45F91031b33Da2585932c8f1cdFF0faa6cD329ae",
+  "provider": "sourcify",
+  "implementation_addresses": [
+    "0xf06e7b50a214d8437221baadd04e0878f232db5e"
+  ],
+  "source_sha256": "837c0a47c85d5499ad9d37814dac1ad9bc3a00aae63fa2dfa0bd65c897404cbb",
+  "program": {
+    "id": "immunefi:synthetix",
+    "platform": "immunefi",
+    "slug": "synthetix",
+    "name": "Synthetix",
+    "url": "https://immunefi.com/bug-bounty/synthetix/"
+  },
+  "capture_semantics": "Git commits archive verified source snapshots and are not deployment transactions."
+}
