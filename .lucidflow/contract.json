@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source_kind": "public_verified_contract_source",
+  "chain_id": 1,
+  "scoped_address": "0xc9d7bd1fad7d5621dda20335818e9575ae07ea03",
+  "explorer_url": "https://etherscan.io/address/0xc9d7bd1Fad7D5621DdA20335818E9575Ae07Ea03",
+  "provider": "sourcify",
+  "implementation_addresses": [],
+  "source_sha256": "7539ebe4a9a1e70988a3cb3033fd2ed029949e23276e71193efbdc6206ed2e8b",
+  "program": {
+    "id": "immunefi:utix",
+    "platform": "immunefi",
+    "slug": "utix",
+    "name": "Utix",
+    "url": "https://immunefi.com/bug-bounty/utix/"
+  },
+  "capture_semantics": "Git commits archive verified source snapshots and are not deployment transactions."
+}
