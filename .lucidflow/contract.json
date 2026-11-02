@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source_kind": "public_verified_contract_source",
+  "chain_id": 1,
+  "scoped_address": "0xbb2ea70c9e858123480642cf96acbcce1372dce1",
+  "explorer_url": "https://etherscan.io/address/0xbb2ea70c9e858123480642cf96acbcce1372dce1",
+  "provider": "sourcify",
+  "implementation_addresses": [],
+  "source_sha256": "a06ea2204d06110d6e58bd5ef2bd74f5a3eeeef9112bc1abaaf3aa2274954343",
+  "program": {
+    "id": "immunefi:layerzero",
+    "platform": "immunefi",
+    "slug": "layerzero",
+    "name": "LayerZero",
+    "url": "https://immunefi.com/bug-bounty/layerzero/"
+  },
+  "capture_semantics": "Git commits archive verified source snapshots and are not deployment transactions."
+}
