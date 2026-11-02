@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source_kind": "public_verified_contract_source",
+  "chain_id": 1,
+  "scoped_address": "0xeffc18fc3b7eb8e676dac549e0c693ad50d1ce31",
+  "explorer_url": "https://etherscan.io/address/0xEFFC18fC3b7eb8E676dac549E0c693ad50D1Ce31",
+  "provider": "sourcify",
+  "implementation_addresses": [],
+  "source_sha256": "9e7c09a4152441cbaae86ebaadc437ceeddcb15914dac90bd94a1c6483a0351e",
+  "program": {
+    "id": "immunefi:aave",
+    "platform": "immunefi",
+    "slug": "aave",
+    "name": "AAVE",
+    "url": "https://immunefi.com/bug-bounty/aave/"
+  },
+  "capture_semantics": "Git commits archive verified source snapshots and are not deployment transactions."
+}
