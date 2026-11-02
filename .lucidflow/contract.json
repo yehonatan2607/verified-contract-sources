@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source_kind": "public_verified_contract_source",
+  "chain_id": 137,
+  "scoped_address": "0xef1870fddc25586636bf8a3d7ccf4d298f6e072e",
+  "explorer_url": "https://polygonscan.com/address/0xeF1870FddC25586636bf8a3d7cCf4d298f6E072e",
+  "provider": "sourcify",
+  "implementation_addresses": [],
+  "source_sha256": "b6ecdba54463384423223f6e69fdae8c5a4ffe6cf266365dfe8000c16ce60a4a",
+  "program": {
+    "id": "immunefi:beefyfinance",
+    "platform": "immunefi",
+    "slug": "beefyfinance",
+    "name": "Beefy Finance",
+    "url": "https://immunefi.com/bug-bounty/beefyfinance/"
+  },
+  "capture_semantics": "Git commits archive verified source snapshots and are not deployment transactions."
+}
