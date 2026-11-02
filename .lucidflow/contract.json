@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source_kind": "public_verified_contract_source",
+  "chain_id": 1,
+  "scoped_address": "0x58254b405e85359fc7eb3b8856ba82a4dd7c82e2",
+  "explorer_url": "https://etherscan.io/address/0x58254B405E85359Fc7Eb3b8856bA82A4dD7C82E2",
+  "provider": "sourcify",
+  "implementation_addresses": [],
+  "source_sha256": "1fd8ba0c4053128c7b0d5d87b091a4c26fc2d201721d4f38c1afcc4f6adb6f20",
+  "program": {
+    "id": "immunefi:ichi",
+    "platform": "immunefi",
+    "slug": "ichi",
+    "name": "Ichi",
+    "url": "https://immunefi.com/bug-bounty/ichi/"
+  },
+  "capture_semantics": "Git commits archive verified source snapshots and are not deployment transactions."
+}
