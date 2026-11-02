@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "source_kind": "public_verified_contract_source",
+  "chain_id": 30,
+  "scoped_address": "0x65a5681be95d212f0c90ead40170d8277de81169",
+  "explorer_url": "https://rootstock.blockscout.com/address/0x65a5681bE95d212F0c90eAd40170D8277de81169",
+  "provider": "blockscout",
+  "implementation_addresses": [
+    "0x00594d5456c4650d10edbb62d7a482d8fa9a5b53"
+  ],
+  "source_sha256": "1c4708f71b82a1da9f76609488a4271b9e2c726f58e012c0b170f4f57287b703",
+  "program": {
+    "id": "immunefi:moneyonchain",
+    "platform": "immunefi",
+    "slug": "moneyonchain",
+    "name": "Money on Chain / RIF on Chain",
+    "url": "https://immunefi.com/bug-bounty/moneyonchain/"
+  },
+  "capture_semantics": "Git commits archive verified source snapshots and are not deployment transactions."
+}
