@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source_kind": "public_verified_contract_source",
+  "chain_id": 42161,
+  "scoped_address": "0x2de73bd1660fbf4d521a52ec2a91ccc106113801",
+  "explorer_url": "https://arbiscan.io/address/0x2dE73Bd1660Fbf4D521a52Ec2a91CCc106113801",
+  "provider": "sourcify",
+  "implementation_addresses": [],
+  "source_sha256": "16b051717e19a2967e5278e250e9e9b8a094269a9e02c0d59731f4a80d10c9d3",
+  "program": {
+    "id": "immunefi:bobanetwork",
+    "platform": "immunefi",
+    "slug": "bobanetwork",
+    "name": "Boba Network",
+    "url": "https://immunefi.com/bug-bounty/bobanetwork/"
+  },
+  "capture_semantics": "Git commits archive verified source snapshots and are not deployment transactions."
+}
