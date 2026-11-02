@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "source_kind": "public_verified_contract_source",
+  "chain_id": 1,
+  "scoped_address": "0x580bda1e7a0cfae92fa7f6c20a3794f169ce3cfb",
+  "explorer_url": "https://etherscan.io/address/0x580bda1e7a0cfae92fa7f6c20a3794f169ce3cfb",
+  "provider": "sourcify",
+  "implementation_addresses": [
+    "0x7f1655d9d570167b2a3ffd1ef809d3fdd74427c5"
+  ],
+  "source_sha256": "9427453252cf7fbc926bf27556e1829a2bb5d2bf4eb6f9d44f2f5e902e8664c6",
+  "program": {
+    "id": "immunefi:polygon",
+    "platform": "immunefi",
+    "slug": "polygon",
+    "name": "Polygon",
+    "url": "https://immunefi.com/bug-bounty/polygon/"
+  },
+  "capture_semantics": "Git commits archive verified source snapshots and are not deployment transactions."
+}
