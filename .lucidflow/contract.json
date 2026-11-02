@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source_kind": "public_verified_contract_source",
+  "chain_id": 56,
+  "scoped_address": "0x15a6f1f2705b3916b5b1d2b19b10f320778744c1",
+  "explorer_url": "https://bscscan.com/address/0x15a6f1f2705b3916b5b1d2b19b10f320778744c1",
+  "provider": "sourcify",
+  "implementation_addresses": [],
+  "source_sha256": "a1d59bde00651ae3f464540e48f82da91923326b898c8c25e3cd7a240efe4d8b",
+  "program": {
+    "id": "immunefi:dawn",
+    "platform": "immunefi",
+    "slug": "dawn",
+    "name": "DAWN USD.infra Vault",
+    "url": "https://immunefi.com/bug-bounty/dawn/"
+  },
+  "capture_semantics": "Git commits archive verified source snapshots and are not deployment transactions."
+}
