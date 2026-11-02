@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source_kind": "public_verified_contract_source",
+  "chain_id": 1,
+  "scoped_address": "0xca310b1b942a30ff4b40a5e1b69ab4607ec79bc1",
+  "explorer_url": "https://etherscan.io/address/0xCa310B1B942A30Ff4b40a5E1b69AB4607eC79Bc1",
+  "provider": "sourcify",
+  "implementation_addresses": [],
+  "source_sha256": "a29b72fb37a3455bd4beff9090a71bb69c2c38dd35d85dd8910572cf20b35e0c",
+  "program": {
+    "id": "immunefi:hashflow",
+    "platform": "immunefi",
+    "slug": "hashflow",
+    "name": "Hashflow",
+    "url": "https://immunefi.com/bug-bounty/hashflow/"
+  },
+  "capture_semantics": "Git commits archive verified source snapshots and are not deployment transactions."
+}
